@@ -1,6 +1,6 @@
-<img src="https://github.wenturc.com/IGCyukira/IGCyukira/refs/heads/main/img/Xirayu-NOBG.webp" width = "420" height = "420" alt="IGCyukira" align="right" />
-
 # Another Story - Inspired by Maya from Arcaea
+
+<img src="https://github.wenturc.com/IGCyukira/IGCyukira/refs/heads/main/img/Xirayu-NOBG.webp" width = "420" height = "420" alt="IGCyukira" align="right" />
 
 Starlight climbed upon her cheek, reflecting upon her short hair, white as the first snow. She was the second maiden born beneath the starlight.
 
