@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/IGCyukira/IGCyukira/refs/heads/main/img/Xirayu-NOBG.webp" width = "420" height = "420" alt="IGCyukira" align="right" />
+<img src="https://github.wenturc.com/IGCyukira/IGCyukira/refs/heads/main/img/Xirayu-NOBG.webp" width = "420" height = "420" alt="IGCyukira" align="right" />
 
 # Another Story - Inspired by Maya from Arcaea
 
