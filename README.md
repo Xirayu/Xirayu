@@ -14,7 +14,7 @@ As night covers all things, memories instead grow clearer. They settle like fros
 
 When all sounds sink into the depths, leaving only a rhythm like breathing, the past is finally laid to rest in a gentle way. At the end of silence, remembrance turns into a faint yet eternal light, illuminating the final instant before oblivion.
 
-If IGCrystal faces the future, then Xirayu stands still within the memory.
+If [**IGCrystal**](https://github.com/IGCrystal) faces the future, then **Xirayu** stands still within the memory.
 
 Everything in the past was once so beautiful.
 
