@@ -1,6 +1,6 @@
 # 🌙 Memory and Reflection: The Echoes of Revaea
 
-<img src="https://gh.revaea.com/IGCyukira/IGCyukira/refs/heads/main/img/Xirayu-NOBG.webp" width = "420" height = "420" alt="IGCyukira" align="right" />
+<img src="https://i0c.cc/r/g/IGCyukira/IGCyukira/refs/heads/main/img/Xirayu-NOBG.webp" width = "420" height = "420" alt="IGCyukira" align="right" />
 
 Time settles slowly in the air, like a layer of dust-light repeatedly caressed, veiling the past that has not yet cooled.
 
